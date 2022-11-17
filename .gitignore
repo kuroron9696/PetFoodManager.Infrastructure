@@ -1,0 +1,8 @@
+*.tfvars
+.terraform*
+*.tfstate*
+*.pfx
+
+**/bin
+
+.DS_Store
